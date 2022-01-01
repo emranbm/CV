@@ -1,2 +1,64 @@
-# CV
-My technical resume
+# Emran Batmanghelich
+## Personal Info
+|                |       |
+| :--            | :--   |
+| **First name**       | Emran |
+| **Last name**        | Batmanghelich |
+| **Birthday**         | March 3, 1996 (1374/12/13) |
+| **Location**         | Tehran, Iran |
+| **Email**            | emran.bm@gmail.com |
+| **Marriage**         | Single |
+| **Military Service** | Education Pardon |
+
+## Education
+|                |       |
+| :--            | :--   |
+| **2019 - Present**   | Studying Computer Engineering at [Sharif University of Technology](https://www.sharif.edu/) (MSc) |
+| **July 2019**        | Ranked 10th in the national university entrance exam for M.Sc. degree in Information Technology (IT) |
+|                      | Ranked 37th in the national university entrance exam for M.Sc. degree in Software Engineering |
+| **2014 - 2019**      | Studying Software Engineering at [AmirKabir University of Technology](https://aut.ac.ir/) (BSc) |
+| **2016 - 2017**      | Teaching Assistant in *Advanced Programming* and *Fundamental Programming*, at AmirKabir University of technology. |
+| **February 2015**    | The only team from AmirKabir University which participated in finals of 7th Java Challenge. (Ranked 18) |
+| **Late 2014**        | Participated in 16th ACM‐ICPC in Sharif University of technology. |
+| **November 2014**    | Ranked first team among all 93 entrance students in 14th ACM‐ICPC AmirKabir University. |
+| **August 2014**      | Ranked 1048th in the national university entrance exam for B.Sc. degree |
+| **June 2014**        | Graduated from Mofid1 high school. |
+|                      | Diploma G.P.A 18.87 |
+| **2012 - 2013**      | 3rd place in Khwarizmi Javaan festival.<br/>Field: Computer<br/>Paper: Authentication system based on behavioral patterns |
+
+## Hard Skills
+### Rank1: Proficient in:
+- Node.js
+- Python
+- Java SE
+- Relational Database Design
+- Docker
+- Git
+- Gitlab CI
+### Rank2: Almost fluent in:
+- C# .NET
+- Django
+- React.js
+- Ansible
+### Rank3: Familiar with and have minor experience in:
+- Scrum Methodology
+- UML Diagrams
+- SQL databases
+  - PostgreSQL
+  - MySQL
+  - SQLite
+  - MS SQL Server
+- Linux OS
+- Fuzzy Logic
+### Rank4: Familiar and/or like to have more experience in:
+- Backend technologies
+  - Java EE Spring MVC
+- Microservices Architecture
+- Kubernetes
+## Work Experience
+|||
+| :-- | :-- |
+| **July 2019 - Present**           | Software Engineer at [Sahab](https://sahab.ir/) |
+| **October 2017 – June 2019**      | Software Developer at [SystemGroup Corporation](https://www.systemgroup.net/) |
+| **September 2016 – October 2017** | Software Developer at Sadad Informatics Corporation ([Bale Messenger](https://bale.ai/)) |
+
