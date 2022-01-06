@@ -1,5 +1,6 @@
 # Emran Batmanghelich CV
-My latest CV can be downloaded from [here](https://github.com/emranbm/CV/releases/download/latest/emran-batmanghelich-cv.pdf).
+Download the latest edition of my CV from [here](https://github.com/emranbm/CV/releases/download/latest/emran-batmanghelich-cv.pdf).
+
 ## Personal Info
 
 |                |       |
@@ -30,6 +31,7 @@ My latest CV can be downloaded from [here](https://github.com/emranbm/CV/release
 | **2012 - 2013**      | 3rd place in Khwarizmi Javaan festival.<br/>Field: Computer<br/>Paper: Authentication system based on behavioral patterns |
 
 ## Hard Skills
+
 ### Rank1: Proficient in:
 - Node.js
 - Python
@@ -38,11 +40,13 @@ My latest CV can be downloaded from [here](https://github.com/emranbm/CV/release
 - Docker
 - Git
 - Gitlab CI
+
 ### Rank2: Almost fluent in:
 - C# .NET
 - Django
 - React.js
 - Ansible
+
 ### Rank3: Familiar with and have minor experience in:
 - Scrum Methodology
 - UML Diagrams
@@ -53,22 +57,27 @@ My latest CV can be downloaded from [here](https://github.com/emranbm/CV/release
   - MS SQL Server
 - Linux OS
 - Fuzzy Logic
+
 ### Rank4: Familiar and/or like to have more experience in:
 - Backend technologies
   - Java EE Spring MVC
 - Microservices Architecture
 - Kubernetes
+
 ## Work Experience
+
 |||
 | :-- | :-- |
 | **2020**                          | Tech. lead of Sharif Winter Seminar Series ([WSS](https://wss.ce.sharif.edu/)) year 2020 |
 | **July 2019 - Present**           | Software Engineer at [Sahab](https://sahab.ir/) |
 | **October 2017 – June 2019**      | Software Developer at [SystemGroup Corporation](https://www.systemgroup.net/) |
 | **September 2016 – October 2017** | Software Developer at Sadad Informatics Corporation ([Bale Messenger](https://bale.ai/)) |
+
 ## Development Interests
 - Managing an application lifecycle, from design and development to deployment and monitoring.
 - Backend development
 - DevOps and Quality
+
 ## Soft Skills
 - Self-Study
   - Open to new technologies (Just give me a week or two!)
