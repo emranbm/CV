@@ -1,7 +1,8 @@
 # Emran Batmanghelich CV
 My latest CV can be downloaded from [here](https://github.com/emranbm/CV/releases/download/latest/emran-batmanghelich-cv.pdf).
 ## Personal Info
-| _              |  _    |
+
+|                |       |
 | :--            | :--   |
 | **First name**       | Emran |
 | **Last name**        | Batmanghelich |
@@ -12,6 +13,7 @@ My latest CV can be downloaded from [here](https://github.com/emranbm/CV/release
 | **Military Service** | Education Pardon |
 
 ## Education
+
 |                |       |
 | :--            | :--   |
 | **2019 - Present**   | Studying Computer Engineering at [Sharif University of Technology](https://www.sharif.edu/) (MSc) |
