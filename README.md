@@ -58,7 +58,21 @@
 ## Work Experience
 |||
 | :-- | :-- |
+| **2020**                          | Tech. lead of Sharif Winter Seminar Series ([WSS](https://wss.ce.sharif.edu/)) year 2020 |
 | **July 2019 - Present**           | Software Engineer at [Sahab](https://sahab.ir/) |
 | **October 2017 – June 2019**      | Software Developer at [SystemGroup Corporation](https://www.systemgroup.net/) |
 | **September 2016 – October 2017** | Software Developer at Sadad Informatics Corporation ([Bale Messenger](https://bale.ai/)) |
-
+## Development Interests
+- Managing an application lifecycle, from design and development to deployment and monitoring.
+- Backend development
+- DevOps and Quality
+## Soft Skills
+- Self-Study
+  - Open to new technologies (Just give me a week or two!)
+- Team leading
+  - Experiences:
+    - Technicall lead of Sharif WSS 2020
+    - Project coach of Mofid high school research class
+- Knowledge Sharing
+  - Good at teaching
+  - Good at documenting
