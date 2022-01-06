@@ -1,0 +1,31 @@
+  
+---
+name: Export PDF
+on:
+  push:
+    branches:
+      - master
+jobs:
+  export-pdf:
+    runs-on: ubuntu-20.04
+    steps:
+      - uses: actions/checkout@v2.4.0
+      - name: Set last update time
+        run: sed -i "s/LAST_UPDATE_TIME/$(git log -1 --format=%cd)/g" config.json
+      - run: > 
+          docker run --rm -v `pwd`:/workdir/ --workdir /workdir/ auchida/markdown-pdf:latest
+          markdown-pdf README.md --paper-format A4 --runnings-path header-and-footer.js --out emran-batmanghelich-cv.pdf
+      - name: Upload CV artifact
+        uses: actions/upload-artifact@v2
+        with:
+          name: CV
+          path: emran-batmanghelich-cv.pdf
+      - name: Release CV
+        uses: "marvinpinto/action-automatic-releases@latest"
+        with:
+          repo_token: "${{ secrets.GITHUB_TOKEN }}"
+          automatic_release_tag: "latest"
+          prerelease: false
+          title: "Emran Batmanghelich's Latest CV"
+          files: |
+            emran-batmanghelich-cv.pdf
