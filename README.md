@@ -1,4 +1,4 @@
-# Emran Batmanghelich
+# Emran Batmanghelich CV
 ## Personal Info
 |                |       |
 | :--            | :--   |
