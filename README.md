@@ -1,4 +1,5 @@
 # Emran Batmanghelich CV
+My latest CV can be downloaded from [here](https://github.com/emranbm/CV/releases/download/latest/emran-batmanghelich-cv.pdf).
 ## Personal Info
 |                |       |
 | :--            | :--   |
