@@ -74,7 +74,7 @@ Download the latest edition of my CV from [here](https://github.com/emranbm/CV/r
 | **September 2016 – October 2017** | Software Developer at Sadad Informatics Corporation ([Bale Messenger](https://bale.ai/)) |
 
 ## Development Interests
-- Managing an application lifecycle, from design and development to deployment and monitoring.
+- Dealing with the whole application lifecycle (from requirements analysis, to design and development, to deployment and monitoring) is so much exciting for me. Actually, I call it *Software Engineering*!
 - Backend development
 - DevOps and Quality
 
