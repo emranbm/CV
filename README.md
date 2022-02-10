@@ -36,17 +36,17 @@ Download the latest edition of my CV from [here](https://github.com/emranbm/CV/r
 ### Rank1: Proficient in:
 - Node.js
 - Python
-- Java SE
-- Relational Database Design
 - Docker
 - Git
-- Gitlab CI
+- CI/CD (Gitlab CI, GitHub Actions)
+- Relational Database Design
 
 ### Rank2: Almost fluent in:
-- C# .NET
 - Django
 - React.js
 - Ansible
+- C# .NET
+- Java SE
 
 ### Rank3: Familiar with and have minor experience in:
 - Scrum Methodology
@@ -59,11 +59,10 @@ Download the latest edition of my CV from [here](https://github.com/emranbm/CV/r
 - Linux OS
 - Fuzzy Logic
 
-### Rank4: Familiar and/or like to have more experience in:
-- Backend technologies
-  - Java EE Spring MVC
-- Microservices Architecture
+### Rank4: Familiar, but need to have more experience in:
 - Kubernetes
+- Microservices Architecture
+- Java EE Spring MVC
 
 ## Work Experience
 
