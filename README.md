@@ -62,7 +62,7 @@ Download the latest edition of my CV from [here](https://github.com/emranbm/CV/r
 - Java SE
 
 ## Development Interests
-I really love the whole application development lifecycle (from design and development, to deployment and monitoring). Actually, that's what I call *Software Engineering*, in comparison to just programming!  
+I really love the whole application development lifecycle (from design, development, and test, to continuous delivery and monitoring). Actually, that's what I call *Software Engineering*, in comparison to just programming!  
 However, I've mainly focused on Backend development skills, alongside DevOps and Quality.
 
 ## Soft Skills
