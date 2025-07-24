@@ -6,11 +6,12 @@ Download the latest edition of my CV from [here](https://github.com/emranbm/CV/r
 |                |       |
 | :--            | :--   |
 | **First name**       | Emran |
-| **Last name**        | Batmanghelich |
+| **Last name**        | Batmanghelich (pronounced baht-maan-ghe-lich) |
 | **Email**            | emran.bm@gmail.com |
 | **Birthday**         | March 3, 1996 (1374/12/13) |
-| **Current Location**         | Tehran, Iran |
-| **Homepage**         | [emran.batmanghelich.ir](https://emran.batmanghelich.ir) |
+| **Current Location** | Tehran, Iran |
+| **GitHub**           | [Link](https://github.com/emranbm) |
+| **LinkedIn**         | [Link](https://linkedin.com/in/emranbm) |
 | **Marriage**         | Single |
 | **Military Service** | Finished (Alternative project, under the supervision of the National Elites Foundation.) |
 
