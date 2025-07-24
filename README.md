@@ -9,16 +9,16 @@ Download the latest edition of my CV from [here](https://github.com/emranbm/CV/r
 | **Last name**        | Batmanghelich |
 | **Email**            | emran.bm@gmail.com |
 | **Birthday**         | March 3, 1996 (1374/12/13) |
-| **Location**         | Tehran, Iran |
+| **Current Location**         | Tehran, Iran |
 | **Homepage**         | [emran.batmanghelich.ir](https://emran.batmanghelich.ir) |
 | **Marriage**         | Single |
-| **Military Service** | Education Pardon |
+| **Military Service** | Finished (Alternative project, under the supervision of the National Elites Foundation.) |
 
 ## Education
 
 |                |       |
 | :--            | :--   |
-| **2019 - 2022**      | Master of science, Computer Engineering (Network), [Sharif University of Technology](https://www.sharif.edu/) |
+| **2019 - 2022**      | Master of science, Computer Engineering (Network), [Sharif University of Technology](https://www.sharif.edu/)(Iran's first rank university in fundamental sciences and engineering) |
 | **July 2019**        | Ranked 10th in the national university entrance exam for M.Sc. degree in Information Technology (IT) |
 |                      | Ranked 37th in the national university entrance exam for M.Sc. degree in Software Engineering |
 | **2014 - 2019**      | Bachelor of science, Software Engineering, [AmirKabir University of Technology](https://aut.ac.ir/) |
@@ -31,61 +31,46 @@ Download the latest edition of my CV from [here](https://github.com/emranbm/CV/r
 |                      | Diploma G.P.A 18.87 |
 | **2012 - 2013**      | 3rd place in Khwarizmi Javaan festival.<br/>Field: Computer<br/>Paper: Authentication system based on behavioral patterns |
 
-## Hard Skills
-
-### Rank1: Proficient in:
-- Node.js
-- Python
-- Docker
-- Git
-- CI/CD (Gitlab CI, GitHub Actions)
-- Relational Database Design
-
-### Rank2: Almost fluent in:
-- Django
-- React.js
-- Ansible
-- C# .NET
-- Java SE
-- Scrum Methodology
-
-### Rank3: Familiar with and have minor experience in:
-- Kubernetes
-- UML Diagrams
-- SQL databases
-  - PostgreSQL
-  - MySQL
-  - SQLite
-  - MS SQL Server
-- Linux OS
-- Fuzzy Logic
-
-### Rank4: Familiar, but need to have more experience in:
-- Microservices Architecture
-- Java EE Spring MVC
 
 ## Work Experience
 
 |||
 | :-- | :-- |
-| **May 2022 - Present**.           | Senior Software Engineer at [Divar](https://divar.ir)
+| **May 2022 - Present**.           | Senior Software Engineer at [Divar](https://divar.ir) |
 | **2020**                          | Tech. lead of Sharif Winter Seminar Series ([WSS](https://wss.ce.sharif.edu/)) year 2020 |
 | **July 2019 - April 2022**        | Software Engineer at [Sahab](https://sahab.ir/) |
 | **October 2017 – June 2019**      | Software Developer at [SystemGroup Corporation](https://www.systemgroup.net/) |
 | **September 2016 – October 2017** | Software Developer at Sadad Informatics Corporation ([Bale Messenger](https://bale.ai/)) |
 
+## Hard Skills in a nutshell
+
+### Rank1: Proficient in:
+- Git
+- CI/CD (Gitlab CI, GitHub Actions)
+- Golang
+- Docker / Kubernetes
+- Relational Databases (like Postgresql)
+- Automated tests
+- LLM agents development
+
+### Rank2: Almost fluent in:
+- Node.js
+- Python / Django
+- React.js
+- Ansible
+- C# .NET
+- Java SE
+
 ## Development Interests
-- Dealing with the whole application lifecycle (from requirements analysis, to design and development, to deployment and monitoring) is so much exciting for me. Actually, I call it *Software Engineering*!
-- Backend development
-- DevOps and Quality
+- I really love the whole application development lifecycle (from design and development, to deployment and monitoring). Actually, that's what I call *Software Engineering*, in comparison to just programming!  
+However, I've mainly focused on Backend development skills, alongside DevOps and Quality.
 
 ## Soft Skills
 - Self-Study
   - Open to new technologies (Just give me a week or two!)
-- Team leading
-  - Experiences:
-    - Technicall lead of Sharif WSS 2020
-    - Project coach of Mofid high school research class
+- Communication skills
+  - Trying to be an active listener!
+  - Learned a lot about giving and receiving feedback / feed-forwards.
 - Knowledge Sharing
-  - Good at teaching
+  - Have a knak for explaining things clearly and presenting information effectively.
   - Good at documenting
