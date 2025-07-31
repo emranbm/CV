@@ -35,7 +35,7 @@ Download the latest edition of my CV from [here](https://github.com/emranbm/CV/r
 
 ## Work Experience
 
-|||
+| | |
 | :-- | :-- |
 | **May 2022 - Present**.           | Senior Software Engineer at [Divar](https://divar.ir) |
 | **2020**                          | Tech. lead of Sharif Winter Seminar Series ([WSS](https://wss.ce.sharif.edu/)) year 2020 |
